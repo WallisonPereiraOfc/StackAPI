@@ -2,8 +2,6 @@
 
 This is a full stack web application made with spring boot and ReactJs in the frontend. Relevant blog articles on this are
 
-* [Spring Boot and Docker Setup](https://medium.com/geekculture/a-full-stack-e-commerce-application-using-spring-boot-and-making-a-docker-container-eff46f6f4e14)
-* [Integrating ReactJs with the backend](https://medium.com/geekculture/a-reactjs-web-application-with-a-spring-boot-backend-and-containerizing-it-using-docker-3eeaed8cb45a)
 
 ## Setting up Locally
 
